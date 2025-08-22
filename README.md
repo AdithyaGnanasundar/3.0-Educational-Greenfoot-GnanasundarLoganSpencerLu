@@ -1,8 +1,10 @@
 # Educational Greenfoot Racing Game
 
 ## Project Overview
+
 The **Educational Greenfoot Racing Game** is designed to make racing games not only fun and engaging, but also **educational**.  
 Built using [Greenfoot](https://www.greenfoot.org/).
+
 ---
 
 ## Purpose
