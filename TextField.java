@@ -26,7 +26,7 @@ public class TextField extends Actor
         }
         if (focused){
             String newText = Greenfoot.getKey();
-            if (newText != null && !newText.equals("w")){
+            if (newText != null && !newText.equals("w") && !newText.equals("a") && !newText.equals("d")){
                 if (newText.toString().equals("space")){
                 currentText += " ";
                 } else if (newText.equals("backspace")){
